@@ -20,6 +20,7 @@ g = sns.displot(data= dffilter, x = "Investment Amount (USD)e", y = "Valuation (
 g.figure.suptitle("Displot graph between Investment Amount (USD) and Valuation (USD)")
 plt.show()
 
+
 #kind='kde'
 # Graph 2
 g = sns.displot(data= dffilter, x = "Investment Amount (USD)", y = "Valuation (USD)")
