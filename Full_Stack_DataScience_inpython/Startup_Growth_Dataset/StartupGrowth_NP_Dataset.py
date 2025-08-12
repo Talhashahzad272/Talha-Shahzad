@@ -11,6 +11,7 @@ print(Investment_Amount_USD)
 print(Valuation_USD)
 print(Number_of_Investors)
 
+
 #Startup Dataset (Investment_Amount_USD)  - statistics operations
 print("Startup Growth Dataset (Investment_Amount_USD) mean:", np.mean(Investment_Amount_USD))
 print("Startup Growth Dataset (Investment_Amount_USD) median:", np.median(Investment_Amount_USD))
