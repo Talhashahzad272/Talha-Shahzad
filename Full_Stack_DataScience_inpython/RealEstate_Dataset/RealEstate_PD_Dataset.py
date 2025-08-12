@@ -6,6 +6,7 @@ df_RealEstate = pd.read_csv("Full_Stack_DataScience_inpython\RealEstate_Dataset\
 
 print(df_RealEstate)                                                               # print data of RealEstate_USA in pandas
 
+
 print("Data_types (RealEstate_USA):",df_RealEstate.dtypes)                         # print data_type RealEstate_USA Data
 
 print("Shape (RealEstate_USA):",df_RealEstate.shape)                               # print shape RealEstate_USA Data
