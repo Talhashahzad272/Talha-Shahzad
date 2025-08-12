@@ -11,6 +11,7 @@ print("Data of RealEstate:", df_RealEstate)
 dffilter = df_RealEstate.head(50)
 print(dffilter)
 
+
 #kind='hist'
 # Graph 1
 g = sns.displot(data= dffilter, x = "price", y = "bed")
