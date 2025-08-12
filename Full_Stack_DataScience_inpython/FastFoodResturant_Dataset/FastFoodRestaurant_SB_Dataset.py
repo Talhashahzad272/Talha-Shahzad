@@ -7,7 +7,8 @@ df_FastFoodResturant = pd.read_csv("Full_Stack_DataScience_inpython\FastFoodRest
 
 print(df_FastFoodResturant)
 
-
+ 
+ 
 #kind='hist'
 # Graph 1
 g = sns.displot(data= df_FastFoodResturant, x = "longitude", y = "latitude")
