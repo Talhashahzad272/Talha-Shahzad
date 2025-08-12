@@ -12,6 +12,7 @@ print("df.info():   " , df.info() )
 print('Last three Rows:')
 print(df.tail(3))
 
+
 # display the first three rows
 print('First Three Rows:')
 print(df.head(3))
