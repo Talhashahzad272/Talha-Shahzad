@@ -9,6 +9,7 @@ print("df_StartupG - data types" , df_StartupG.describe())
 print("df_StartupG - data types" , df_StartupG.shape)
 print("df_StartupG - data types" , df_StartupG.dtypes)
 
+
 # display the first Seven rows
 print("first Seven rows:",df_StartupG.head(7))
 
