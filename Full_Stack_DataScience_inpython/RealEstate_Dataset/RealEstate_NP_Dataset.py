@@ -16,6 +16,7 @@ print(bath)
 print(house_size)
 
 
+
 # Static Operation Apply on "price" colum of (RealEstate_USA DataSet)
 
 print("Mean of Price:" , np.mean(price))                       #Find (Mean) of "Price" colum RealEstate_USA Data
