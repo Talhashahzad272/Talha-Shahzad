@@ -10,6 +10,8 @@ print(country)
 print(latitude)
 print(longitude)
 
+
+
 # FastFood_Resturant - statistics operations
 print("FastFood_Resturant (latitude) mean: " , np.mean(latitude))
 print("FastFood_Resturant (latitude) Average: " , np.average(latitude))
