@@ -1,0 +1,6 @@
+n = input("Enter Here No of Candies:\n")
+print(f"Candies is:{n}")
+k = input("Enter Here No of Students:\n")
+print(f"Students is:{k}")
+R = float(n) % float(k)
+print(f"Left Candies is: {R}")

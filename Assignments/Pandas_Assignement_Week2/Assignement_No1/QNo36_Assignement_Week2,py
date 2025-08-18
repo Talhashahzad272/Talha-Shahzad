@@ -1,0 +1,14 @@
+import pandas as pd
+
+df = pd.read_csv("Full_Stack_Ai_inpython/Assignments/Pandas_Assignement_Week2/Assignement_No1/RealEstate-USA.csv", delimiter=",")
+
+# print all data of Real Estate in datafaram
+
+print(df)
+
+
+# filling NaN values with 0
+
+filing_value = df.fillna(0,inplace=True)
+print(filing_value)
+print(df)

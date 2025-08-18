@@ -1,0 +1,6 @@
+Lengt = input("Please enter your length:\n")
+print(f"Length is: {Lengt}")
+widt = input("Enter your Width:\n")
+print("width is:" + widt)
+Areea = int(Lengt) * int(widt)
+print(Areea)
